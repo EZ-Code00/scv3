@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-Auto Script VPS Script Lite New Generation
+Auto Script VPS Lite Version New Generation
 Created By EZ-Code
 <img src="https://img.shields.io/badge/VERSION-3-blue.svg"></h2>
 
@@ -84,12 +84,10 @@ SYSTEM MENU
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80<br>
 ✅ SQUID PROXY 8080/3128<br>
 ✅ XRAY VMESS & VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
-✅ XRAY VMESS & VLESS XHTTP TLS & NON-TLS 443/80<br>
-✅ XRAY VMESS & VLESS HTTP-UPGRADE TLS & NON-TLS 443/80<br>
+✅ XRAY VMESS & VLESS GRPC TLS 443/80<br>
 ✅ XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
 ✅ XRAY TROJAN GRPC TLS TLS 443<br>
 ✅ WIREGUARD 5820<br>
-✅ SHADOSOCKS OBFS HTTP,HTTPS 2443/3443<br>
 <br>
 
 [ OTHER SERVICES ] <br>
@@ -108,6 +106,7 @@ SYSTEM MENU
 ✅ TOTAL USER MONITOR <br>
 ✅ TURN ON/OFF MULTILOGIN OPENVPN <br>
 ✅ TURN ON/OFF MULTIPATH XRAY <br>
+✅ CHANGE DNS SERVER <br>
 </br>
 
 
