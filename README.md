@@ -2,9 +2,9 @@
 
 
 <h2 align="center">
-Auto Script VPS
+Auto Script VPS Script Lite New Generation
 Created By EZ-Code
-<img src="https://img.shields.io/badge/VERSION-2-blue.svg"></h2>
+<img src="https://img.shields.io/badge/VERSION-3-blue.svg"></h2>
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
