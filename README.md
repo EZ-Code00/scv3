@@ -47,12 +47,12 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
 
 <br>
-♦️ For Debian 10 / 11 / 12 For First Time Installation (Update Repo) <br>
+♦️ For Debian 12 For First Time Installation (Update Repo) <br>
 
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
-  ♦️ For Ubuntu 18.04 / 20.04 / 22.04 / 24.04 For First Time Installation (Update Repo) <br>
+  ♦️ For Ubuntu 24.04(LTS) For First Time Installation (Update Repo) <br>
   
   ```html
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
